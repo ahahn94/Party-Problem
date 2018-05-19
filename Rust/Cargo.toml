@@ -1,0 +1,6 @@
+[package]
+name = "Rust"
+version = "0.1.0"
+authors = ["ahahn94 <ahahn94@outlook.com>"]
+
+[dependencies]

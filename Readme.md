@@ -13,5 +13,6 @@ The algorithm has been implemented in the following languages:
 - Kotlin
 - Python
 - Ruby
+- Rust
 
 ### These implementations use a recursive approach to solve the problem.
