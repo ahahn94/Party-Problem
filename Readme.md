@@ -12,6 +12,7 @@ The algorithm has been implemented in the following languages:
 - Go
 - Java
 - Kotlin
+- Kotlin-Native
 - Python
 - Ruby
 - Rust
