@@ -9,6 +9,7 @@ this algorithm removes the guests from the list that have fewer than k friends.
 The algorithm has been implemented in the following languages:  
 - C
 - C++
+- C#
 - Go
 - Java
 - Kotlin
