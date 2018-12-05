@@ -10,6 +10,7 @@ The algorithm has been implemented in the following languages:
 - C
 - C++
 - C#
+- Dart
 - Go
 - Java
 - Kotlin
