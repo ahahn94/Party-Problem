@@ -13,6 +13,7 @@ The algorithm has been implemented in the following languages:
 - Dart
 - Go
 - Java
+- JavaScript (CLI via Node.js)
 - Kotlin
 - Kotlin-Native
 - Python
