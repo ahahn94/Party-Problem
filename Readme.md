@@ -20,5 +20,6 @@ The algorithm has been implemented in the following languages:
 - Python
 - Ruby
 - Rust
+- TypeScript (CLI via Node.js)
 
 ### These implementations use a recursive approach to solve the problem.
