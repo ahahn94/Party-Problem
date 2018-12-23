@@ -21,5 +21,6 @@ The algorithm has been implemented in the following languages:
 - Ruby
 - Rust
 - TypeScript (CLI via Node.js)
+- VB.NET
 
 ### These implementations use a recursive approach to solve the problem.
