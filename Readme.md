@@ -19,6 +19,7 @@ The algorithm has been implemented in the following languages:
 - Kotlin-Native
 - PHP
 - Python
+- Qt 5 (and C++)
 - Ruby
 - Rust
 - TypeScript (CLI via Node.js)
