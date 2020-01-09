@@ -22,6 +22,7 @@ The algorithm has been implemented in the following languages:
 - Qt 5 (and C++)
 - Ruby
 - Rust
+- Swift
 - TypeScript (CLI via Node.js)
 - VB.NET
 
